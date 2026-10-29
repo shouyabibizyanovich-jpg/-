@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "optimizermod",
+  "version": "${version}",
+  "name": "OptimizerMod",
+  "description": "Client-side performance menu, profiles, FPS HUD and safe auto-optimization.",
+  "authors": ["OptimizerMod"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.optimizermod.OptimizerModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
