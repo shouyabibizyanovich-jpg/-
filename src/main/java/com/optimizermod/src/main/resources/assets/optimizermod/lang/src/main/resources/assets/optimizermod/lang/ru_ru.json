@@ -1,5 +1,18 @@
 {
   "optimizermod.name": "OptimizerMod",
   "key.categories.optimizermod": "OptimizerMod",
-  "key.optimizermod.open_menu": "Открыть меню оптимизации"
+  "key.optimizermod.open_menu": "Открыть меню оптимизации",
+
+  "optimizermod.screen.title": "OptimizerMod",
+  "optimizermod.screen.close_hint": "Нажмите Esc или %s, чтобы закрыть",
+
+  "optimizermod.tab.profiles": "Профили",
+  "optimizermod.tab.profiles.desc": "Выбор профиля производительности: Картошка, Низкий, Средний, Мощный, Авто или Пользовательский.",
+  "optimizermod.tab.graphics": "Графика",
+  "optimizermod.tab.graphics.desc": "Дальность прорисовки и симуляции, частицы, облака, тени сущностей, лимит FPS и вертикальная синхронизация.",
+  "optimizermod.tab.hud": "HUD",
+  "optimizermod.tab.hud.desc": "FPS, время кадра, минимальный и максимальный FPS и активный профиль на экране.",
+  "optimizermod.tab.auto": "Авто",
+  "optimizermod.tab.auto.desc": "Автоматическая подстройка графики при длительном падении производительности.",
+  "optimizermod.tab.placeholder": "Этот раздел появится на этапе %s."
 }
