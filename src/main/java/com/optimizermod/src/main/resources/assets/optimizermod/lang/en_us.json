@@ -1,5 +1,18 @@
 {
   "optimizermod.name": "OptimizerMod",
   "key.categories.optimizermod": "OptimizerMod",
-  "key.optimizermod.open_menu": "Open optimization menu"
+  "key.optimizermod.open_menu": "Open optimization menu",
+
+  "optimizermod.screen.title": "OptimizerMod",
+  "optimizermod.screen.close_hint": "Press Esc or %s to close",
+
+  "optimizermod.tab.profiles": "Profiles",
+  "optimizermod.tab.profiles.desc": "Choose a performance profile: Potato, Low, Medium, High, Auto or Custom.",
+  "optimizermod.tab.graphics": "Graphics",
+  "optimizermod.tab.graphics.desc": "Render distance, simulation distance, particles, clouds, entity shadows, FPS limit and VSync.",
+  "optimizermod.tab.hud": "HUD",
+  "optimizermod.tab.hud.desc": "FPS, frame time, min/max FPS and the active profile shown on screen.",
+  "optimizermod.tab.auto": "Auto",
+  "optimizermod.tab.auto.desc": "Automatic adjustment of graphics settings when performance stays low for a long time.",
+  "optimizermod.tab.placeholder": "This section will be available in stage %s."
 }
